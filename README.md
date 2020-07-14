@@ -204,7 +204,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Data scraping
 
-- [All the Places](https://globaleclipse.com/): A project to extract GeoJSON from the web focusing on websites that have 'store locator' pages.
+- [All the Places](https://github.com/alltheplaces/alltheplaces): A project to extract GeoJSON from the web focusing on websites that have 'store locator' pages.
 
 ## Textures / Patterns
 
