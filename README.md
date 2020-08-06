@@ -195,6 +195,8 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Hydroshare](https://www.hydroshare.org/)
 - [European Data Portal](https://www.europeandataportal.eu/nl/)
 - [Programmable Web Search APIs](https://www.programmableweb.com/apis/directory)
+- [Mapping Inequality: Redlining in New Deal America](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58): Extensive collection of shapefiles, geojson files, and descriptive data taken from HOLC redlining maps
+- [The Big Ten Academic Alliance Geoportal](https://geo.btaa.org/): Enormous searchable resource for maps and geospatial data contributed and linked to by Big Ten university GIS librarians
 
 ## Data wrangling, transformation, and manipulation
 
