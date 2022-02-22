@@ -209,6 +209,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 ## Data scraping
 
 - [All the Places](https://github.com/alltheplaces/alltheplaces): A project to extract GeoJSON from the web focusing on websites that have 'store locator' pages.
+- [Extracting MORE Features from Map Services](https://socalgis.org/2018/03/28/extracting-more-features-from-map-services/): How to extract more than 1000 features from a map service using Python.
 
 ## Textures / Patterns
 
