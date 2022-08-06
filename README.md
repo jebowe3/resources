@@ -286,6 +286,9 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Introduction to D3 web mapping](https://github.com/maptimelex/d3-mapping): Rich Donohue's maptime tutorial that walks through how some basic d3 web maps work
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet): Cheat sheet for GDAL/OGR command-line geodata tools by Derek Watkins
 - [How to use non-Web Mercator projections in CartoDB](http://blog.cartodb.com/free-your-maps-web-mercator/)
+- [Geospatial Analysis
+  Create interactive maps, and discover patterns in geospatial data](https://www.kaggle.com/learn/geospatial-analysis)
+- [GIS Programming Roadmap](https://github.com/petedannemann/gis-programming-roadmap): This repository lays out a path to take someone with no GIS experience to a proficient GIS Developer. The sections are organized by skill level and meant to be progressed through sequentially. This was highly inspired by Open Source Society University. Resources mostly come from highly effective and free courses as well as blog posts and tutorials. There is a mixture of proprietary (ESRI) and open-source materials.
 
 ## Blogs
 
@@ -347,8 +350,3 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Data Viz Tools](http://dataviz.tools/): a curated guide to the best tools, resources and technologies for data visualization
 - [Popper](https://popper.js.org/): JS library for managing popups and tooltips within a document
 - [Bounding box](https://boundingbox.klokantech.com/): tool for finding the lat/lon coordinates of a bounding box.
-
-## Tutorials
-
-- [Geospatial Analysis
-  Create interactive maps, and discover patterns in geospatial data](https://www.kaggle.com/learn/geospatial-analysis)
