@@ -305,6 +305,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [The Distillery](https://shancarter.github.io/distillery/): Convert files to TopoJSON.
 - [Ogre](https://ogre.adc4gis.com/): Convert to/from GeoJSON/shapefile.
 - ogr2ogr: Great [blog post](http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/) on using ogr2ogr to convert to GeoJSON.
+- [Terraformer](https://github.com/terraformer-js/terraformer): A geographic toolkit for dealing with geometry, geography, formats, and building geodatabases. Convert WKT geometries to GeoJSON geometries and vice versa.
 
 ## Site generators
 
