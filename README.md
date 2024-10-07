@@ -33,6 +33,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [UI/UX](#uiux)
 - [Miscellaneous](#miscellaneous)
 - [Tutorials](#tutorials)
+- [General Data Visualization](#general-data-visualization)
 
 ---
 
@@ -351,3 +352,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Data Viz Tools](http://dataviz.tools/): a curated guide to the best tools, resources and technologies for data visualization
 - [Popper](https://popper.js.org/): JS library for managing popups and tooltips within a document
 - [Bounding box](https://boundingbox.klokantech.com/): tool for finding the lat/lon coordinates of a bounding box.
+
+## General Data Visualization
+
+- [Data Visualization Catalogue](https://datavizcatalogue.com/search.html): a list of charts categorised by their data visualization functions or by what you want a chart to communicate to an audience.
